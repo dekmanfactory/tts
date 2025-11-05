@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TTS Generator",
+  "description": "An application to generate speech from text using the Gemini API. Users can specify multiple text inputs and select a voice to generate corresponding audio files.",
+  "requestFramePermissions": []
+}
